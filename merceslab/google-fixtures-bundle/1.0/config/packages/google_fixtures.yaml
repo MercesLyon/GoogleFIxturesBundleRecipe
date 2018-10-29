@@ -1,0 +1,2 @@
+merces_lab_google_fixtures:
+    google_credentials: '%env(GOOGLE_CREDENTIALS)%'
